@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KwgbnYQ93l5DWR/xrpSe5SVWlBBJ9VHXPogBjbw9yPLFalkMMxMCYjBcsWZCVDA9TT4fzMAOw5k109/9WBGZhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev\\Desktop\\SpecFlowProject1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
